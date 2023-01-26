@@ -3,7 +3,7 @@
 Building an HTML structure for my resume (This structure is based on the Sololearn HTML course guided project)
  
 ### Introduction
-* Goal: The objective of this project is to put into practice the knowledge acquired during the Soloearn HTML course as well through the creation of a resume.
+* Goal: The objective of this project is to put into practice the knowledge acquired during the Soloearn HTML course through the creation of my resume.
 
 ### Knowledge of HTML used during this project
 
